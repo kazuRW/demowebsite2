@@ -26,11 +26,11 @@
         <ul class="navbar-nav align-items-lg-center align-items-start ml-auto">
           <li class="d-flex align-items-center justify-content-between pl-4 pl-lg-0">
             <div class="navbar-collapse-logo">
+            <button class="navbar-toggler close-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">close
+              <span class="mdi mdi-close navbar-toggler-icon pl-12"></span>
+            </button>
               <img src="images/logo.png" alt="">
             </div>
-            <button class="navbar-toggler close-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="mdi mdi-close navbar-toggler-icon pl-5"></span>
-            </button>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#header-section">Home<span class="sr-only">(current)</span></a>
@@ -48,8 +48,6 @@
             <button class="btn btn-info"><a href="http://wa.me/62895395850837" target="_blank" rel="noopener noreferrer"> Hubungi Whatsapp</a></button>
 			<!-- data-toggle="modal" data-target="#exampleModal" -->
           </li>
-          <li class="navbar-nav align-items-lg-center align-items-start ml-auto"><button class="btn btn-secondary close-button">
-            <a href="home">Close</a></button>
         </li>
         </ul>
       </div>
