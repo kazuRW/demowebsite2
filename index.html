@@ -33,7 +33,7 @@
             </button>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#header-section">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="#header-section">Home<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#features-section">About</a>
@@ -48,6 +48,9 @@
             <button class="btn btn-info"><a href="http://wa.me/62895395850837" target="_blank" rel="noopener noreferrer"> Hubungi Whatsapp</a></button>
 			<!-- data-toggle="modal" data-target="#exampleModal" -->
           </li>
+          <li class="navbar-nav align-items-lg-center align-items-start ml-auto"><button class="btn btn-secondary close-button">
+            <a href="home">Close</a></button>
+        </li>
         </ul>
       </div>
     </div> 

@@ -3835,6 +3835,11 @@ input[type="button"].btn-block {
   list-style: none;
 }
 
+.botpointer {
+	transform: rotate(360deg);
+	transition: ease-in-out 1s;
+}
+
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
